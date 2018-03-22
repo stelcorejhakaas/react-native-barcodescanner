@@ -2,13 +2,13 @@
 
 import React, {
   Component,
-  PropTypes,
 } from 'react';
 import {
   requireNativeComponent,
   StyleSheet,
   View,
 } from 'react-native';
+import PropTypes from 'prop-types';
 
 import Viewfinder from './Viewfinder';
 
